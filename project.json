@@ -1,12 +1,10 @@
 {
-    "id": "driver/ext/corto",
+    "id": "driver.ext.corto",
     "type": "package",
     "value": {
         "description": "Cortoscript file extension",
         "author": "Sander Mertens",
         "version": "1.0.0",
-        "language": "c",
-        "managed": false,
-        "use": ["corto", "corto/script/ast", "corto/script/declare"]
+        "use": ["corto", "corto.script.ast", "corto.script.declare"]
     }
 }

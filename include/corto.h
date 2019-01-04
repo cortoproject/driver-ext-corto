@@ -2,7 +2,7 @@
 #ifndef DRIVER_EXT_CORTO_H
 #define DRIVER_EXT_CORTO_H
 
-/* Add include files here */
+#include "bake_config.h"
 
 #ifdef __cplusplus
 extern "C" {
@@ -15,4 +15,3 @@ extern "C" {
 #endif
 
 #endif /* DRIVER_EXT_CORTO_H */
-
